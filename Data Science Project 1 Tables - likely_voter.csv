@@ -1,0 +1,6 @@
+likely_voter,weight
+(1) Definitely will vote,0.8
+(2) Probably will vote,0.6
+(3) Probably will not vote,0.4
+(4) Definitely will not vote,0.2
+(5) I already voted,1

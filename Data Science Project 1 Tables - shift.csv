@@ -1,0 +1,7 @@
+party,vote_intent,weight
+(1) Democrat,(69739) Glenn Youngkin,0.4
+(2) Republican,(69739) Glenn Youngkin,0.6
+(3) Neither,(69739) Glenn Youngkin,0.5
+(1) Democrat,(60075) Terry McAuliffe,0.6
+(2) Republican,(60075) Terry McAuliffe,0.4
+(3) Neither,(60075) Terry McAuliffe,0.5
